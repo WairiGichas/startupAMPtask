@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../mywebsiteone"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "site1assignment"
+	}
+}
